@@ -1,3 +1,2 @@
 * knife
 * bowl
-* hammer
