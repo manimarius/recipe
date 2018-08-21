@@ -1,2 +1,2 @@
-#Guac
+#Guacamole recipe
 Guacamole recipe
